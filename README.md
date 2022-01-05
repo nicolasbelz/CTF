@@ -1,6 +1,7 @@
 # CTF
 ctf project for BAWiM
- The main idea finding the flag using basic SQL Injections to insecure web page.
+
+Lab 1:
 
 Step-1:
 
@@ -20,7 +21,7 @@ When you try all of them, none of them give the flag. So try basic SQL payloads 
 
 I tried ' OR '1' = '1
 
-I got the following output.
+Output:
 
 Name: Luke  
 Data: I made this problem.  
@@ -38,6 +39,11 @@ Name: snoutpop
 Data: jowls  
 Name: Chunbucket  
 Data: @datboiiii
-Step-4:
 
-Finally the flag becomes: th4t_is_why_you_n33d_to_sanitiz3_inputs
+Step-4:
+Flag: th4t_is_why_you_n33d_to_sanitiz3_inputs
+
+Lab 2
+
+
+
