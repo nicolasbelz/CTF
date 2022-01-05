@@ -1,10 +1,8 @@
 # Projekt CTF
 
-## Co się przyda
+Prosimy założyć konto na stronie: https://ctflearn.com/dashboard
 
-Konto na stronie: https://ctflearn.com/dashboard
-
-Terminal Linuxa
+Do niektórych zadań może się przydać terminal Linuxa
 
 ## Zadania
 
@@ -50,7 +48,7 @@ https://ctflearn.com/challenge/243
 Zadanie 3.4
 https://ctflearn.com/challenge/547
 
-### Dla ambitnych
+### Wyzwanie dla ambitnych :)
 
 http://ctf.uw-team.org/
 
