@@ -48,7 +48,7 @@ https://ctflearn.com/challenge/231
 Zadanie 3.4
 https://ctflearn.com/challenge/547
 
-### Wyzwanie dla ambitnych :)
+### Dla ambitnych
 
 http://ctf.uw-team.org/
 
