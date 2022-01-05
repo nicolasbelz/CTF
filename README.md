@@ -11,7 +11,7 @@ Zadanie 1.2:
 https://ctflearn.com/challenge/979
 
 Zadanie 1.3
-
+https://ctflearn.com/challenge/168
 
 Zadanie 1.4
 https://ctflearn.com/challenge/149
