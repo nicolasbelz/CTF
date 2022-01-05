@@ -4,31 +4,33 @@ ctf project for BAWiM
 
 Web
 
-Zad 1:
+Zadanie 1.1:
 https://ctflearn.com/challenge/88
 
 
-Zad 2:
+Zadanie 1.2:
 https://ctflearn.com/challenge/979
 
 
-Zad 3:
+Zadanie 1.3:
 https://ctflearn.com/challenge/149
+
+Zadanie 1.4
 
 
 Forensics
 
 
-Lab 3:
+Zadanie 2.1:
 https://ctflearn.com/challenge/96
 
-Lab 4:
+Zadanie 2.2:
 https://ctflearn.com/challenge/96
 
-Lab5:
+Zadanie 2.3:
 https://ctflearn.com/challenge/108
 
-Lab6:
+Zadanie 2.4
 https://ctflearn.com/challenge/303
 
 Lab7:
@@ -38,16 +40,17 @@ https://ctflearn.com/challenge/97
 Crypto
 
 
-Lab 8:
+Zadanie 3.1
 https://ctflearn.com/challenge/192
 
-Lab 9:
+Zadanie 3.2
 https://ctflearn.com/challenge/115
 
-Lab 10:
+Zadanie 3.3
 https://ctflearn.com/challenge/243
 
-Lab 11:
+Zadanie 3.4
+
 
 
 
