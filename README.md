@@ -1,15 +1,23 @@
 # CTF
 ctf project for BAWiM
 
-Web \n
+
+Web
+
 Zad 1:
 https://ctflearn.com/challenge/88
 
 
-Lab 2:
+Zad 2:
+https://ctflearn.com/challenge/979
+
+
+Zad 3:
 https://ctflearn.com/challenge/149
 
+
 Forensics
+
 
 Lab 3:
 https://ctflearn.com/challenge/96
