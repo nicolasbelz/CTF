@@ -1,16 +1,16 @@
 # CTF
 ctf project for BAWiM
 
-Web
-Lab 1:
-Strona z zadaniem: https://ctflearn.com/challenge/88
+Web \n
+Zad 1:
+https://ctflearn.com/challenge/88
 
-Flag: th4t_is_why_you_n33d_to_sanitiz3_inputs
 
 Lab 2:
 https://ctflearn.com/challenge/149
 
 Forensics
+
 Lab 3:
 https://ctflearn.com/challenge/96
 
