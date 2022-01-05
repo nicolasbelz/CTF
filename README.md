@@ -21,17 +21,17 @@ Zadanie 1.4
 Forensics
 
 
-Zadanie 2.1:
+Zadanie 2.1
 https://ctflearn.com/challenge/96
 
-Zadanie 2.2:
-https://ctflearn.com/challenge/96
-
-Zadanie 2.3:
+Zadanie 2.2
 https://ctflearn.com/challenge/108
 
-Zadanie 2.4
+Zadanie 2.3
 https://ctflearn.com/challenge/303
+
+Zadanie 2.4
+https://ctflearn.com/challenge/97
 
 
 Crypto
