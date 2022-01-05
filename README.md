@@ -40,10 +40,10 @@ Zadanie 3.1
 https://ctflearn.com/challenge/192
 
 Zadanie 3.2
-https://ctflearn.com/challenge/115
+https://ctflearn.com/challenge/243
 
 Zadanie 3.3
-https://ctflearn.com/challenge/243
+https://ctflearn.com/challenge/231
 
 Zadanie 3.4
 https://ctflearn.com/challenge/547
