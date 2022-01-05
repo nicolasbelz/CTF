@@ -33,9 +33,6 @@ https://ctflearn.com/challenge/108
 Zadanie 2.4
 https://ctflearn.com/challenge/303
 
-Lab7:
-https://ctflearn.com/challenge/97
-
 
 Crypto
 
