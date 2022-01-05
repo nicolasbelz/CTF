@@ -48,11 +48,3 @@ https://ctflearn.com/challenge/243
 
 Zadanie 3.4
 
-
-
-
-
-
-
-
-
