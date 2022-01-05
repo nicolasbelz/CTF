@@ -1,10 +1,12 @@
-# CTF
-Potrzebne materiały:
+# Projekt CTF
 
-Prosimy założyć konto na stronie: https://ctflearn.com/dashboard
+## Co się przyda
 
-Zalecamy do korzystania z sytemu Linux do wykonania niektórych zadań
+Konto na stronie: https://ctflearn.com/dashboard
 
+Terminal Linuxa
+
+## Zadania
 
 ### Web
 
@@ -20,7 +22,6 @@ https://ctflearn.com/challenge/168
 Zadanie 1.4
 https://ctflearn.com/challenge/149
 
-
 ### Forensics
 
 Zadanie 2.1
@@ -35,7 +36,6 @@ https://ctflearn.com/challenge/303
 Zadanie 2.4
 https://ctflearn.com/challenge/97
 
-
 ### Cryptography
 
 Zadanie 3.1
@@ -49,6 +49,10 @@ https://ctflearn.com/challenge/243
 
 Zadanie 3.4
 https://ctflearn.com/challenge/547
+
+### Dla ambitnych
+
+http://ctf.uw-team.org/
 
 
 
