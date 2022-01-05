@@ -1,5 +1,9 @@
 # CTF
-CTF project for BAWiM
+Potrzebne materiały:
+
+Prosimy założyć konto na stronie: https://ctflearn.com/dashboard
+
+Zalecamy do korzystania z sytemu Linux do wykonania niektórych zadań
 
 
 ### Web
