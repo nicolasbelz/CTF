@@ -34,6 +34,9 @@ https://ctflearn.com/challenge/303
 Zadanie 2.4
 https://ctflearn.com/challenge/97
 
+Zadanie 2.5
+https://ctflearn.com/challenge/356
+
 ### Cryptography
 
 Zadanie 3.1
