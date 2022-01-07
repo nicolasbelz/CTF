@@ -2,16 +2,16 @@
 
 Prosimy założyć konto na stronie: https://ctflearn.com/dashboard
 
-Do niektórych zadań może się przydać terminal Linuxa
+Do niektórych zadań może się przydać Linux
 
 ## Zadania
 
 ### Web
 
-Zadanie 1.1:
+Zadanie 1.1
 https://ctflearn.com/challenge/88
 
-Zadanie 1.2:
+Zadanie 1.2
 https://ctflearn.com/challenge/979
 
 Zadanie 1.3
